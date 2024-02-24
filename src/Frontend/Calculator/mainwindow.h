@@ -21,6 +21,8 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+    StackNode *add;
+    StackNode *with;
 
 private:
     Ui::MainWindow *ui;
@@ -30,8 +32,6 @@ private:
     QDoubleValidator creditPercent_doubleValidator;
     QRegularExpressionValidator m_regexValidator;
     QRegularExpressionValidator x_regexValidator;
-    StackNode *add;
-    StackNode *with;
 
 private slots:
     void digits_numbers();

@@ -214,6 +214,8 @@ void MainWindow::on_pushButton_calc_clicked() {
 void MainWindow::on_pushButton_depCalc_clicked() {
   output depOut = {0};
   inputStr str = {0};
+  add = NULL;
+  with = NULL;
 
   QString inputSum = ui->lineEdit_depSum->text();
   QString inputPeriod = ui->lineEdit_depPeriod->text();

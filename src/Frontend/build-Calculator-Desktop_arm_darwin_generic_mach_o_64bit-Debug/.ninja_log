@@ -1,0 +1,20 @@
+# ninja log v5
+0	2064	1706730357804507486	Calculator_autogen/timestamp	abe62c2741136aee
+0	2064	1706730357804507486	Calculator_autogen/mocs_compilation.cpp	abe62c2741136aee
+0	2064	1706730357804507486	/Users/avarfox/Downloads/C7_SmartCalc_v1.0-3-develop/src/Frontend/build-Calculator-Desktop_arm_darwin_generic_mach_o_64bit-Debug/Calculator_autogen/timestamp	abe62c2741136aee
+0	2064	1706730357804507486	/Users/avarfox/Downloads/C7_SmartCalc_v1.0-3-develop/src/Frontend/build-Calculator-Desktop_arm_darwin_generic_mach_o_64bit-Debug/Calculator_autogen/mocs_compilation.cpp	abe62c2741136aee
+2065	4574	1706730360333124745	CMakeFiles/Calculator.dir/main.cpp.o	71ff8d235971d7ae
+2067	8529	1706730364279125031	CMakeFiles/Calculator.dir/secondwindow.cpp.o	7e5b04e05096d1
+2066	8562	1706730364319261946	CMakeFiles/Calculator.dir/mainwindow.cpp.o	dfa8fbf571aaafa9
+2064	10657	1706730366411953000	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	f029485a959c3e21
+2067	13809	1706730369563104929	CMakeFiles/Calculator.dir/qcustomplot.cpp.o	6f9864147ad65522
+13809	14090	1706730369856529252	Calculator.app/Contents/MacOS/Calculator	b9cb03712d8e5d1e
+12	840	1706730648883217000	Calculator_autogen/timestamp	abe62c2741136aee
+12	840	1706730648883217000	Calculator_autogen/mocs_compilation.cpp	abe62c2741136aee
+12	840	1706730648883217000	/Users/avarfox/Downloads/C7_SmartCalc_v1.0-3-develop/src/Frontend/build-Calculator-Desktop_arm_darwin_generic_mach_o_64bit-Debug/Calculator_autogen/timestamp	abe62c2741136aee
+12	840	1706730648883217000	/Users/avarfox/Downloads/C7_SmartCalc_v1.0-3-develop/src/Frontend/build-Calculator-Desktop_arm_darwin_generic_mach_o_64bit-Debug/Calculator_autogen/mocs_compilation.cpp	abe62c2741136aee
+841	3117	1706730651179411856	CMakeFiles/Calculator.dir/main.cpp.o	71ff8d235971d7ae
+843	5922	1706730653978678997	CMakeFiles/Calculator.dir/secondwindow.cpp.o	7e5b04e05096d1
+842	5961	1706730654022673439	CMakeFiles/Calculator.dir/mainwindow.cpp.o	dfa8fbf571aaafa9
+841	7524	1706730655584169404	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	f029485a959c3e21
+7524	7679	1706730655747934606	Calculator.app/Contents/MacOS/Calculator	b9cb03712d8e5d1e
